@@ -3,7 +3,7 @@ My music player, modified from foobar2000.
 
 ## Now Playing
 
-![](https://xingrunli-img.oss-cn-shenzhen.aliyuncs.com/img/202307162045192.png)
+![](https://xingrunli-img.oss-cn-shenzhen.aliyuncs.com/img/202307162053623.png)
 
 Lyric search:
 ![](https://xingrunli-img.oss-cn-shenzhen.aliyuncs.com/img/202307162049532.png)
