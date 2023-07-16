@@ -15,3 +15,10 @@ Folder:
 
 Album:
 ![](https://xingrunli-img.oss-cn-shenzhen.aliyuncs.com/img/202307162048617.png)
+
+## How to use
+
+Just unzip it anywhere, run "foobar2000.exe"
+
+Prefrences (Ctrl + P) and add your music folder:
+![](https://xingrunli-img.oss-cn-shenzhen.aliyuncs.com/img/202307162107718.png)
